@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# 환경 설정
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ngrok
+ngrok.yml
+ngrok.log
+
+# GlassOS Directory
+GlassOS/
