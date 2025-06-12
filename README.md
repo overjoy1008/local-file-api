@@ -19,7 +19,7 @@
 ## 🛠️ 1. 설치
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/overjoy1008/local-file-api.git
 cd local-file-api
 npm install
 ```
